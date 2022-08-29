@@ -20,11 +20,18 @@ p {
 
 .about_me_text {
     font-size: x-large;
+    padding-bottom: 10px;
 }
 
 hr {
     width: 90%;
-    border: 3px solid black;
+    border: 5px solid black;
+    background-color: black;
+}
+
+.hr_project {
+    border: 1.5px solid black;
+    background-color: black;
 }
 
 ul {
